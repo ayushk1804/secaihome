@@ -1,1 +1,1 @@
-# secaihome
+# SecAI frontend
